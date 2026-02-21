@@ -1,3 +1,9 @@
+---
+tags:
+  - statistica
+  - triennale
+  - regressione
+---
 # Progetto di Statistica
 
 ## Dataset
